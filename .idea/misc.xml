@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Praktikum/Mobile/mylistview_F55121037/app/src/main/res/layout/activity_ahmaddahlan.xml" value="0.3625" />
+        <entry key="..\:/Praktikum/Mobile/mylistview_F55121037/app/src/main/res/layout/activity_ahmadyani.xml" value="0.3625" />
+        <entry key="..\:/Praktikum/Mobile/mylistview_F55121037/app/src/main/res/layout/activity_detail_f55121037.xml" value="0.3625" />
+        <entry key="..\:/Praktikum/Mobile/mylistview_F55121037/app/src/main/res/layout/activity_gatot_soebroto.xml" value="0.3625" />
+        <entry key="..\:/Praktikum/Mobile/mylistview_F55121037/app/src/main/res/layout/activity_ki_hadjar_dewantara.xml" value="0.3625" />
+        <entry key="..\:/Praktikum/Mobile/mylistview_F55121037/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Praktikum/Mobile/mylistview_F55121037/app/src/main/res/layout/activity_mohammad_hatta.xml" value="0.3625" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_ahmaddahlan.xml" value="0.20652173913043478" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_ahmadyani.xml" value="0.20652173913043478" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_detail_f55121037.xml" value="0.25" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_gatot_soebroto.xml" value="0.3625" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_ki_hadjar_dewantara.xml" value="0.3484375" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_mohammad_hatta.xml" value="0.3484375" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_soedirman.xml" value="0.3484375" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_soekarno.xml" value="0.3625" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_soepomo.xml" value="0.3625" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_sutomo.xml" value="0.20652173913043478" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/activity_tan_malaka.xml" value="0.3625" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/item.xml" value="0.1636271529888551" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/item_hero.xml" value="0.1" />
+        <entry key="..\:/mylistview_F55121037/app/src/main/res/layout/ngetes.xml" value="0.14907407407407408" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

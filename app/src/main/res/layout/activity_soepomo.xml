@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Soepomo">
+
+    <ImageView
+        android:id="@+id/img_photo"
+        android:src="@drawable/supomo"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:text="Soepomo"
+        android:layout_marginTop="50dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="216dp"
+        android:layout_marginTop="200dp"
+        android:text="Prof. Dr. Mr. Soepomo (Ejaan Soewandi: Supomo;
+            22 Januari 1903 – 12 September 1958) adalah seorang adalah
+            seorang politikus dan pengacara Indonesia yang menjabat sebagai Menteri Kehakiman
+            pertama negara itu dari Agustus hingga November 1945 dan lagi dari Desember 1949 hingga 6
+            September 1950. Dikenal sebagai bapak konstitusi Indonesia, ia secara anumerta dinyatakan sebagai
+            Pahlawan Nasional Indonesia oleh Presiden Soekarno pada tahun 1965.
+            Soepomo dikenal sebagai perancang Undang-undang Dasar 1945, bersama dengan Muhammad Yamin dan Soekarno."
+        android:textAlignment="center"/>
+</RelativeLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Soekarno">
+
+    <ImageView
+        android:id="@+id/img_photo"
+        android:src="@drawable/sukarno"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:text="Soekarno"
+        android:layout_marginTop="50dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="216dp"
+        android:layout_marginTop="200dp"
+        android:text="Dr.(H.C.) Ir. H. Soekarno (ER, EYD: Sukarno, nama
+lahir: Koesno Sosrodihardjo) (lahir di Surabaya, Jawa Timur, 6
+Juni 1901 – meninggal di Jakarta, 21 Juni 1970 pada umur 69
+tahun) adalah Presiden pertama Republik Indonesia yang menjabat
+pada periode 1945–1967. Ia memainkan peranan penting dalam
+memerdekakan bangsa Indonesia dari penjajahan Belanda. Ia
+adalah Proklamator Kemerdekaan Indonesia (bersama dengan
+Mohammad Hatta) yang terjadi pada tanggal 17 Agustus 1945.
+Soekarno adalah yang pertama kali mencetuskan konsep mengenai
+Pancasila sebagai dasar negara Indonesia dan ia sendiri yang
+menamainya."
+        android:textAlignment="center"/>
+</RelativeLayout>

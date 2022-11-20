@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GatotSoebroto">
+
+    <ImageView
+        android:id="@+id/img_photo"
+        android:src="@drawable/gatot_subroto"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:text="Gatot Subroto"
+        android:layout_marginTop="50dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="216dp"
+        android:layout_marginTop="200dp"
+        android:text="Jenderal TNI (Purn.) Gatot Soebroto (lahir di
+Sumpiuh, Banyumas, Jawa Tengah, 10 Oktober 1907 – meninggal di
+Jakarta, 11 Juni 1962 pada umur 54 tahun) adalah tokoh
+perjuangan militer Indonesia dalam merebut kemerdekaan dan juga
+pahlawan nasional Indonesia. Ia dimakamkan di Ungaran,
+kabupaten Semarang."
+        android:textAlignment="center"/>
+
+</RelativeLayout>

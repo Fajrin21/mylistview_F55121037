@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="16dp"
+    tools:context="rafii">
+
+    <ImageView
+        android:id="@+id/img_photo"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:src="@drawable/rafi"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="280dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="50dp"
+        android:text="RafiNaufalY.R._F55121038"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="Perkenalkan Nama saya Rafi Naufal Yassar Ramadhan saya NIM F55121038,
+        saya berasal dari Yogyakaarta dan sekarang tinggal di palu tepatnya di jalan kelinci no 4A.
+        Juga berkuliah di Universitas Tadulako Jurusan Teknologi Informasi Prodi Teknik Informatika."
+        android:textAlignment="center"/>
+
+</RelativeLayout>

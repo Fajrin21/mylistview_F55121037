@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ahmadyani">
+
+    <ImageView
+        android:id="@+id/img_photo"
+        android:src="@drawable/ahmad_yani"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:text="Ahmad Yani"
+        android:layout_marginTop="50dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="216dp"
+        android:layout_marginTop="200dp"
+        android:text="Jenderal TNI Anumerta Ahmad Yani (juga dieja
+Achmad Yani; lahir di Purworejo, Jawa Tengah, 19 Juni 1922 –
+meninggal di Lubang Buaya, Jakarta, 1 Oktober 1965 pada umur 43
+tahun) adalah komandan Tentara Nasional Indonesia Angkatan
+Darat, dan dibunuh oleh anggota Gerakan 30 September saat
+mencoba untuk menculik dia dari rumahnya."
+        android:textAlignment="center"/>
+
+</RelativeLayout>
